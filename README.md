@@ -1,10 +1,10 @@
 # rti1w
-work in progress :) implementation from "ray tracing in one weekend" book series (not at all in one weelend lol)
+implementation from [ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 
 ### compile
 
-the book uses some c++17 features. this command compiles and dumps the generated stdout into an image callend `image.ppm`
+the book uses some c++17 features. this command compiles and dumps stdout into an image
 
 ```
 clang++ -std=c++17 -stdlib=libc++ main.cpp && ./a.out > image.ppm
