@@ -1,5 +1,5 @@
 # rti1w
-implementation from [ray tracing in one weekend"](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
+implementation from [ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 
 
 ### compile
